@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pillow
+transformers
+torch
+torchvision
+numpy
+pandas
+timm==0.4.12
